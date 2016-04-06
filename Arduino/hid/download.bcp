@@ -1,0 +1,5 @@
+; Bamcompile project file
+mainfile download.php
+embed download.php
+icon guideline.ico
+compress

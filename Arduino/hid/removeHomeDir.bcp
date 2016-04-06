@@ -1,0 +1,4 @@
+; Bamcompile project file
+mainfile removeHomeDir.php
+embed removeHomeDir.php
+compress

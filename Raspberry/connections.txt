@@ -1,0 +1,10 @@
+USB1 : Arduino1
+USB2 : Arduino2
+
+led between GPIO 17 (1-6 or P1-11) en GND (2-3 or P1-6)
+switch between GPIO 18 (2-6 or P1-12) en 5V (2-2 or P1-4)
+
+servo:
+contol wire (yellow/orange) of servo to GPIO pin 4 (1-4 of P1-7)
+power wire (red) of servo to 5V (2-2 or P1-4)
+GND wire (brown) of servo to GND (2-3 or P1-6)

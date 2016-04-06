@@ -1,0 +1,8 @@
+Arduino1
+pin 13 : resistor + led
+pin 12 : resistor + led
+pin 8  : resistor -> GND
+			switch to 5V
+
+Arduino2 : 
+analog pin 2 : potmeter
